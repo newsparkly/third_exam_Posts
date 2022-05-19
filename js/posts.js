@@ -3,7 +3,7 @@ const posts = [
     id: 1,
     title:
     'Software Engineer',
-    body: 'Bu yigit mevalar tarkibiga Bodring degan sabzavot ham kirishini isbotlagan Andijoniskiy dasturchi va ustoz hisoblanadi.',
+    body: `Bu yigit ozgina harakat, xoxish va ishtiyoq bo'lsa dasturlashni o'zi uni oldiga kelishini isbotlagan va bir necha ming dollar turuvchi dasturlash kursida tekunga o'qish, o'rganish imkonini qo'lga kiritgan Andijonlik yigit hisoblanada.`,
     user: {
       id: 1,
       name: 'Shuhratbek Qobulov',
